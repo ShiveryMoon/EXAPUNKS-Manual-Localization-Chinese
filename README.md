@@ -14,8 +14,8 @@ steam编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https://
 ****
 ## 目录
 * [上册](#上册)
-	* [(02)TRASH WORLD MANIFESTO](#TRASH_WORLD_MANIFESTO)
-	* [(05)基于EXA的分布式网络编程](#基于EXA的分布式网络编程)
+	* [(02)TRASH WORLD MANIFESTO](#(02)TRASH_WORLD_MANIFESTO)
+	* [(05)基于EXA的分布式网络编程](#(05)基于EXA的分布式网络编程)
 	* [(06)主机，连接，文件以及硬件寄存器](#主机，连接，文件以及硬件寄存器)
 		* [主机](#主机)
 		* [连接](#连接)
@@ -45,7 +45,7 @@ steam编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https://
 **黑客精神永存 Ghast留**
 
 
-## (04)基于EXA的分布式网络编程
+## (05)基于EXA的分布式网络编程
 &emsp;&emsp;想要摆脱电脑的控制，第一步就是要学会如何去使用它们，这就需要学会用EXA编程。  
 **EXA是什么？**  
 &emsp;&emsp;EXA是可执行代理的缩写(EXecution Agent)。

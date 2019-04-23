@@ -14,7 +14,7 @@ steam编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https://
 ****
 ## 目录
 * [上册](#上册)
-	* [(02)TRASHWORLDMANIFESTO](#TRASH WORLD MANIFESTO)
+	* [(02)TRASH WORLD MANIFESTO](#TRASH_WORLD_MANIFESTO)
 	* [(05)基于EXA的分布式网络编程](#基于EXA的分布式网络编程)
 	* [(06)主机，连接，文件以及硬件寄存器](#主机，连接，文件以及硬件寄存器)
 		* [主机](#主机)

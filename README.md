@@ -27,4 +27,4 @@ steam编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https://
 		* [教程3：EXA间通信](#教程3：EXA间通信)
 		* [教程4：条件与循环](#教程4：条件与循环)
 	* [(12)RUNTIME_ERRORS](#RUNTIME ERRORS)
-	* [(14)EXA语言参考文档](#EXA语言参考文档)
+	* [(14)RUNTIME_ERRORS](#EXA语言参考文档)

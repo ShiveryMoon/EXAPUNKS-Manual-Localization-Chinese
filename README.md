@@ -1,4 +1,4 @@
-EXAPUNKS-Manual-Localization-Chinese
+EXAPUNKS文档汉化
 ====================================
 STEAM上编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https://store.steampowered.com/app/716490/ "EXAPUNKS")  
 该文档在游戏内以杂志`TRASH WORLD NEWS`的形式出现，pdf见游戏根目录下/Content/manual，作者提供了三种格式以供直接阅读或打印成小册子。
@@ -9,7 +9,7 @@ STEAM上编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https
 * 代码文档
 * 每关对应的背景故事和趣闻
 
-目前已翻译完前三部分，后面的背景故事将会慢慢更新。  
+目前已汉化完前两部分，后面的背景故事将会慢慢更新。  
 本项目出于纯粹个人爱好，练练英语的同时熟悉一下markdown排版。   
 一切更新随缘:kissing_closed_eyes:。
 ****

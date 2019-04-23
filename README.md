@@ -129,3 +129,10 @@ STEAM上编程类游戏EXAPUNKS的文档翻译，商店链接：[EXAPUNKS](https
 	FJMP LOOP   \\若T的值为0，则程序跳回LOOP处继续执行
 
 &emsp;&emsp;好了，祝贺你，现在你已完成了所有教程。你现在是一个真正的EXA程序员了。需要学的东西还很多，但至少你已经入门了。
+	
+	COPY 0 X    \\将X寄存器的值置为0
+	MARK LOOP   \\定义一个跳转标记，名为LOOP
+	COPY 9999 F \\向手中的文件写入值9999
+	ADDI X 1 X  \\X自增
+	TEST X = 10 \\检查X的值是否等于10，并将结果写入T(0或1)
+	FJMP LOOP   \\若T的值为0，则程序跳回LOOP处继续执行
